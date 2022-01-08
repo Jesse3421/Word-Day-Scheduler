@@ -1,4 +1,4 @@
-# Work Day Scheduler  
+# Work Day Scheduling App  
   https://jesse3421.github.io/work-day-scheduler/
   ### Description
   The Work Day Scheduler app allows the user to enter tasks into the time slots for that day and the user can save those tasks into the scheduler. The app also indicates if the task is in the past/present/future by changing colors depending on the time. 
